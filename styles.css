@@ -1,0 +1,28 @@
+body {
+	background-image: url("https://img.freepik.com/free-photo/fresh-colourful-ingredients-mexican-cuisine_23-2148254294.jpg?w=1950");
+	font: italic 40px Georgia;
+	font-size: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+img {
+	border-radius: 8px;
+	max-height: 100%;
+	height: auto;
+}
+
+.head {
+	font: 60px Copperplate,fantasy;
+	color: navy;
+	margin-left: 50;
+}
+
+.menu {
+	font: 30px Copperplate,fantasy;
+	color: gray;
+}
+
+.links {
+	margin-left:50;
+	width:120;
+}
